@@ -4,10 +4,10 @@
 <p align="justify"> Sistema de controle de alunos de uma escola. Basicamente é um sistema com as opções de cadastrar, editar, listar e excluir alunos, turmas e/ou escolas, ou seja, um CRUD em PHP.</p>
 
 ### Estrutura do projeto
-- arquivos de configuração
-    - index.php: página inicial
-    - functions.php: arquivo de funções
-    - style.css: arquivo de estilos
+ - arquivos de configuração
+     - index.php: página inicial
+     - functions.php: arquivo de funções
+     - style.css: arquivo de estilos
     
 - CRUD da tabela alunos
     - create-aluno.php
@@ -87,4 +87,4 @@
 (11, 'Juliana Lopes', '(65)99202-1234','julianalopes586@phpescola.com', '1996-12-19','F'),
 (12, 'Daniel Silva', '(65)99202-5678','danielsilva@phpescola.com', '1997-09-01','M');`
 
-Obs.: foi utilizado nomes e dados fictícios para preencher o sql. 
+###### Obs.: foram utilizados nomes e dados fictícios para preencher o sql. 
