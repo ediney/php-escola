@@ -37,9 +37,11 @@
 - [ ] Tabela Alunos de Turmas
 
 ### Lista de tarefas a serem concluídas ou melhoradas
-1. Página inicial está com a configuração visual muito básica;
-2. Métodos update só estão funcionando via url na barra de endereços - opção: um formulário para essas funcionalidades;
-3. Função para exibir a data que vem do banco no formato d-m-Y;
+1. Página inicial está com a configuração visual muito básica - opção: utilizar um framework;
+2. Implementar namespaces, modelagem de classes, etc; 
+3. Métodos update só estão funcionando via url na barra de endereços - opção: um formulário para essas funcionalidades;
+4. Função para exibir a data que vem do banco no formato d-m-Y;
+5. Revisar os relacionamentos das tabelas do banco;
 
 ### Scripts SQL utilizados
 `CREATE TABLE IF NOT EXISTS 'alunos' (
