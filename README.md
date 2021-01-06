@@ -37,6 +37,6 @@
 - [ ] Tabela Alunos de Turmas
 
 ### Lista de tarefas a serem concluídas ou melhoradas
-1. Página inicial está com a configuração muito básica;
-2. Métodos update só estão funcionando via url na barra de endereços;
+1. Página inicial está com a configuração visual muito básica;
+2. Métodos update só estão funcionando via url na barra de endereços - opção: um formulário para essas funcionalidades;
 3. Função para exibir a data que vem do banco no formato d-m-Y;
