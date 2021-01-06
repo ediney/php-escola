@@ -86,3 +86,5 @@
 (10, 'Rafael Mendes', '(65)99200-7890','rafamendes55@phpescola.com', '1996-05-21','M'),
 (11, 'Juliana Lopes', '(65)99202-1234','julianalopes586@phpescola.com', '1996-12-19','F'),
 (12, 'Daniel Silva', '(65)99202-5678','danielsilva@phpescola.com', '1997-09-01','M');`
+
+Obs.: foi utilizado nomes e dados fictícios para preencher o sql. 
